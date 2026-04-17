@@ -1,0 +1,47 @@
+{
+  "name": "@aleksei-uzin/gfg-160",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solutions for the GfG 160 Days of Problem Solving challenge",
+  "scripts": {
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "format": "prettier --write src",
+    "format:check": "prettier --check src",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksei-Uzin/GfG-160.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "geeksforgeeks",
+    "problem-solving",
+    "javascript"
+  ],
+  "author": "Aleksei Uzin <aleksei.uzin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksei-Uzin/GfG-160/issues"
+  },
+  "homepage": "https://github.com/Aleksei-Uzin/GfG-160#readme",
+  "devDependencies": {
+    "@eslint/config-helpers": "0.5.5",
+    "eslint": "8.57.1",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "10.1.8",
+    "eslint-plugin-import": "2.32.0",
+    "husky": "9.1.7",
+    "lint-staged": "16.4.0",
+    "prettier": "3.8.3"
+  },
+  "lint-staged": {
+    "src/**/*.js": [
+      "eslint --cache --fix",
+      "prettier --write"
+    ],
+    "*.md": "prettier --write"
+  }
+}
