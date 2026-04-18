@@ -7,9 +7,9 @@
 <details>
   <summary>Arrays</summary>
 
-| #   | Problem                                        | Difficulty         | Tags              |
-| --- | ---------------------------------------------- | ------------------ | ----------------- |
-| 1   | [Second Largest](./src/Arrays/second-largest/) | ![Easy][icon-easy] | Arrays, Searching |
+| #   | Problem                                         | Difficulty         | Tags              |
+| --- | ----------------------------------------------- | ------------------ | ----------------- |
+| 1   | [Second Largest](./src/Arrays/secondLargest.js) | ![Easy][icon-easy] | Arrays, Searching |
 
 </details>
 
