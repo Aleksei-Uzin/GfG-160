@@ -7,9 +7,10 @@
 <details>
   <summary>Arrays</summary>
 
-| #   | Problem                                         | Difficulty         | Tags              |
-| --- | ----------------------------------------------- | ------------------ | ----------------- |
-| 1   | [Second Largest](./src/Arrays/secondLargest.js) | ![Easy][icon-easy] | Arrays, Searching |
+| #   | Problem                                              | Difficulty         | Tags                    |
+| --- | ---------------------------------------------------- | ------------------ | ----------------------- |
+| 1   | [Second Largest](./src/Arrays/secondLargest.js)      | ![Easy][icon-easy] | Arrays, Searching       |
+| 2   | [Second Largest](./src/Arrays/moveAllZeroesToEnd.js) | ![Easy][icon-easy] | Arrays, Data Structures |
 
 </details>
 
