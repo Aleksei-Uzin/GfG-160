@@ -1,6 +1,6 @@
 # [GfG 160 - 160 Days of Problem Solving](https://www.geeksforgeeks.org/courses/gfg-160-series)
 
-![Progress](https://img.shields.io/badge/Progress-5%20%2F%20160-blue)
+![Progress](https://img.shields.io/badge/Progress-6%20%2F%20160-blue)
 
 ## Table of Contents
 
@@ -19,9 +19,10 @@
 <details>
   <summary>String</summary>
 
-| #   | Problem                                        | Difficulty         | Tags                                     |
-| --- | ---------------------------------------------- | ------------------ | ---------------------------------------- |
-| 1   | [Anagram Check](./src/Strings/anagramCheck.js) | ![Easy][icon-easy] | Strings, Design-Pattern, Data Structures |
+| #   | Problem                                                                 | Difficulty         | Tags                                     |
+| --- | ----------------------------------------------------------------------- | ------------------ | ---------------------------------------- |
+| 1   | [Anagram Check](./src/Strings/anagramCheck.js)                          | ![Easy][icon-easy] | Strings, Design-Pattern, Data Structures |
+| 2   | [First non-repeating character](./src/Strings/nonRepeatingCharacter.js) | ![Easy][icon-easy] | Hash, Strings, Data Structures           |
 
 </details>
 
