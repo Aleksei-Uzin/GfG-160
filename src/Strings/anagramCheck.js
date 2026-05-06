@@ -9,7 +9,7 @@
  * @returns {boolean} True if s1 and s2 are anagrams, false otherwise.
  *
  * @complexity Time: O(n^2) - indexOf is O(n) called for each character in s2.
- * @complexity Auxiliary Space: O(n) - map stores at most n unique characters.
+ * @complexity Auxiliary Space: O(1) - map stores at most 26 unique characters.
  */
 function _areAnagramsMap(s1, s2) {
   if (s1.length !== s2.length) return false;
